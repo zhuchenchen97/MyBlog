@@ -1,2 +1,2 @@
-# WEB-APP-study
-Record some important points when I study courses in UBC.
+Record some important knowledge when study CS.
+Some information are from https://github.com/Snailclimb/
